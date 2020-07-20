@@ -1,5 +1,5 @@
 # Clima
 A Weather App 
 
-### Side Note
-This app was made using a tutorial from the App Brewery - go check them out if you get a chance!
+### Disclaimer
+This app was made with the help of a course made by [The App Brewery](https://www.appbrewery.co)
