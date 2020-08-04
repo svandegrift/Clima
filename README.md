@@ -1,2 +1,2 @@
 # Clima
-A Weather App 
+A Weather App using the openweather API
